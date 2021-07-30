@@ -7,22 +7,22 @@ html {
   
   body {
     color: rgb(0, 0, 0);
-    font-weight: 300;
+    /*font-weight: 100;*/
     margin: 0 auto;
     max-width: 48rem;
-    line-height: 1.2;
-    padding: .25rem;
+    line-height: 1;
+    /*padding: .25rem;*/
     /*background-color: white;*/
     background: #fff;
     font-size: 12pt;
     font-family: 'Minion Pro';
-    text-align: justify;  
-    text-justify: auto;
+    text-align:justify;
+    /*text-justify:auto;*/
 
   }
   
     h1,h2,h3,h4 {font-family: 'Leander';page-break-inside:avoid;     padding: 0;
-      margin: 0;}
+      margin: 0;text-align:left;}
     h1, h2 {text-align: center;}
     h1 { font-size : 3.5em; }
     h2 { font-size : 3.5em; page-break-before: always}
@@ -48,7 +48,8 @@ html {
 p {
     page-break-inside:avoid;
     margin-top : -2em;
-    margin-left: 3em
+    margin-left: 3em;
+    text-align: center;
   }
 
  /* .pagebreak { page-break-after: always; }*/

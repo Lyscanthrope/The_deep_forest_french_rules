@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD045 -->
-# La forêt sombre
+# LA FORET TORTUEUSE
 
 ![][front_image]
 
@@ -24,7 +24,7 @@ et des tensions dans le jeu.
 
 ### Fournitures
 
-La forêt sombre nécessite 2 à 4 joueurs et 2 à 4 heures de jeu.
+La forêt tortueuse nécessite 2 à 4 joueurs et 2 à 4 heures de jeu.
 
 Il nécessite en outre :
 
@@ -37,7 +37,7 @@ Il nécessite en outre :
 
 ### Préparation de votre espace
 
-Une certaine préparation est nécessaire avant de pouvoir enseigner La forêt sombre à d'autres personnes.
+Une certaine préparation est nécessaire avant de pouvoir enseigner La forêt tortueuse à d'autres personnes.
 d'autres personnes. Commencez par débarrasser votre table ou votre espace de jeu de tout objet inutile.
 Visez un environnement minimal.
 
@@ -51,7 +51,7 @@ Sur une deuxième fiche, écrivez le titre Noms.
 
 ### Une année fugace
 
-Une partie complète de La forêt sombre dure généralement de 3 à 4 heures, temps d'enseignement compris.
+Une partie complète de La forêt tortueuse dure généralement de 3 à 4 heures, temps d'enseignement compris.
 le temps d'enseignement. Si vous préférez jouer une partie plus courte, vous pouvez le faire avec cet ajustement :
 avant de jouer, retirez 4 cartes de chacune des couleurs (qui représentent les saisons).
 Veillez à retirer la dame de carreau (été) et à garder le roi de pique (hiver) des les cartes avec lesquelles vous jouez.
@@ -71,7 +71,7 @@ Lisez à haute voix.
 >Hiver, une bande de héros va arriver et nous pourrions ne pas survivre à la rencontre. Ce
 >c'est à ce moment que le jeu se terminera. Mais nous ne le savons pas encore. Ce que nous savons, c'est
 >c'est que maintenant, en ce moment, nous, les monstres, avons l'opportunité de guérir et de
->et de découverte de soi dans notre forêt sombre, loin des yeux des humains.
+>et de découverte de soi dans notre forêt tortueuse, loin des yeux des humains.
 
 ### Explication des outils
 
@@ -92,7 +92,7 @@ ils diminuent d'une unité. Quand un dé atteint zéro, le projet est terminé.
 les tensions et les frustrations qui pourraient survenir entre nos monstres.
 
 - *Montrez la carte de résumé.* Il s'agit d'une carte récapitulative. Elle nous rappelle ce que nous devons faire
-chaque semaine de La forêt sombre, et dans quel ordre.
+chaque semaine de La forêt tortueuse, et dans quel ordre.
 
 ### Explication du jeu de cartes
 
@@ -118,7 +118,7 @@ chaque couleur, rappelez au groupe sa saison.*
 Nous avons tous deux rôles à jouer dans ce jeu. Le premier est de parler au nom des membres
 de cette communauté, et de se soucier de leurs destins individuels et collectifs... Le
 second est de présenter des dilemmes de manière impartiale, de provoquer des situations difficiles
-et de voir ce qu'il en ressort. La forêt sombre nous demande d'évoluer entre ces deux rôles.
+et de voir ce qu'il en ressort. La forêt tortueuse nous demande d'évoluer entre ces deux rôles.
 deux rôles.
 
 Le jeu nous demandera de parler en tant que divers monstres de la communauté, et d'agir en leur nom.
@@ -131,7 +131,7 @@ et d'agir, même si c'est de manière peu claire ou par des moyens magiques.
 Nous ne devons pas avoir l'impression qu'un seul point de vue appartient à l'un d'entre nous, et sommes
 invités à parler au nom de différents monstres au cours du jeu. En
 En faisant explicitement appel aux acteurs et aux points de vue des monstres, The Deep
-forêt sombre nous permet d'explorer la façon dont les individus façonnent les communautés, ainsi que la façon dont les individus font face aux cicatrices de l'occupation.
+forêt tortueuse nous permet d'explorer la façon dont les individus façonnent les communautés, ainsi que la façon dont les individus font face aux cicatrices de l'occupation.
 les individus font face aux cicatrices de l'occupation.
 
 Nous aurons également l'occasion d'introduire des problèmes auxquels la communauté devra faire face à la suite de l'occupation.
@@ -219,7 +219,7 @@ sections à haute voix au groupe. Une fois que vous avez terminé ce chapitre, c
 
 ### La semaine
 
-L'unité de base du jeu dans La forêt sombre est la semaine. Chaque semaine est un tour pris par un joueur.
+L'unité de base du jeu dans La forêt tortueuse est la semaine. Chaque semaine est un tour pris par un joueur.
 par un joueur, et le jeu se déroule dans le sens des aiguilles d'une montre autour de la table. Les semaines devraient
 semaines devraient durer en moyenne 2 à 3 minutes.
 
@@ -399,7 +399,7 @@ savons-nous encore comment maintenir une adoption ? Nous pouvons modifier ces li
 
 ### Restriction
 
-En jouant à La forêt sombre, nous devons nous abstenir de toute discussion libre
+En jouant à La forêt tortueuse, nous devons nous abstenir de toute discussion libre
 sur ce qu'il faut faire ensuite. Il existe dans le jeu des mécanismes spécifiques pour discuter des
 problèmes de la communauté et manifester notre mécontentement. Lorsque nous jouons, nous ne devons pas
 parlerons pas à tort et à travers ou tenterons de contourner ces mécanismes. Ces règles fonctionnent
@@ -443,7 +443,7 @@ contributions.
 ### Immigration
 
 Lorsque de nouveaux monstres arrivent dans la communauté, il est préférable qu'ils arrivent aussi
-sous forme d'individus solitaires ou de petites grappes. La forêt sombre prend un ton radicalement
+sous forme d'individus solitaires ou de petites grappes. La forêt tortueuse prend un ton radicalement
 radicalement différente si soudainement trois douzaines d'orcs arrivent dans une communauté qui peut seulement
 huit ou neuf monstres au total. Assurez-vous que vos ajouts défient la
 communauté, mais ne la déséquilibrez pas au point qu'un groupe de monstres devienne le groupe dominant par son seul nombre.
@@ -473,7 +473,7 @@ aux peuples Squamish, Musqueam, et Tsleil-Waluth. Et puis j'ai écrit The
 Quiet Year sans comprendre comment sa conception reproduisait tacitement les récits coloniaux de la propriété et de l'identité culturelle.
 les récits coloniaux sur la propriété et les terres " non réclamées ".
 
-Une partie de mon désir d'écrire La forêt sombre était de répondre à ce dernier point, de créer une Année Tranquille qui soit centrée sur la question de la propriété.
+Une partie de mon désir d'écrire La forêt tortueuse était de répondre à ce dernier point, de créer une Année Tranquille qui soit centrée sur la question de la propriété.
 une année tranquille centrée sur la décolonisation. Mais je voulais aussi explorer
 quelque chose de plus familier pour moi, queer et trans - les manières dont l'altérité et la
 l'altérité et la monstruosité sont parfois récupérées ou exploitées dans le processus d'apprentissage de la
@@ -530,7 +530,7 @@ parce que ce qui était avant a été détruit, mais cel détient un potentiel p
 Pourtant, comme beaucoup de tentatives de décolonisation, nous savons qu'elle sera interrompue bien avant
 qu'elle ne puisse vraiment se terminer.
 
-J'espère que La forêt sombre est un miroir, un miroir qui reflète ce que vous y apportez,
+J'espère que La forêt tortueuse est un miroir, un miroir qui reflète ce que vous y apportez,
 les rôles que vous jouez habituellement et les conquêtes que vous tentez habituellement.
 
 ## Remerciement

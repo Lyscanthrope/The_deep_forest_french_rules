@@ -1,19 +1,24 @@
 # LA FORÊT PROFONDE
 
-```
-Un jeu de cartes de fantaisie post-coloniale.
-Une réimagination de L'année tranquille.
-Mark Diaz Truman et Avery Alder Mcdaldno
-Art par Jules Silver
-```
+![Front][front_image]
 
-# Chapitre 1 : Rassemblement
+>Un jeu de cartes de fantaisie post-coloniale.\
+>Une réimagination de L'année tranquille.\
+>Par Mark Diaz Truman et Avery Alder Mcdaldno\
+>Art par Jules Silver
 
-```
-En tant qu'animateur, lisez l'intégralité de ce livre et accomplissez les tâches décrites dans ce chapitre avant d'inviter les autres à se joindre à vous.
-dans ce chapitre avant d'inviter les autres à vous rejoindre à la table.
-```
-## Qu'est-ce que c'est ?
+<div class="pagebreak"/>
+
+---
+
+## Chapitre Un : Rassemblement
+
+*En tant qu'animateur, lisez l'intégralité de ce livre et accomplissez les tâches décrites dans ce chapitre avant d'inviter les autres à se joindre à vous.
+dans ce chapitre avant d'inviter les autres à vous rejoindre à la table.*
+
+---
+
+### Qu'est-ce que c'est ?
 
 Il s'agit d'un jeu de dessin de carte. Vous explorez collectivement les luttes d'une
 communauté de monstres, essayant de se reconstruire et de guérir après avoir chassé les occupants humains.
@@ -24,20 +29,21 @@ cartographie littérale, tandis que d'autres parties sont symboliques. Les joueu
 communauté, mais ils se font aussi l'avocat du diable et introduisent des problèmes et des tensions dans le jeu.
 et des tensions dans le jeu.
 
-## Fournitures
+### Fournitures
 
 La forêt profonde nécessite 2 à 4 joueurs et 2 à 4 heures de jeu.
 
-Il nécessite en outre
+Il nécessite en outre :
+
 - Une feuille de papier vierge de format lettre
 - Des crayons, des gommes et plusieurs fiches.
 - Six dés (les plus petits sont préférables)
 - 20 jetons de mépris (éventuellement des pierres ou des perles de verre)
 - Un jeu de cartes à jouer ordinaire
-**- L'Oracle** (qui comprend une page de cartes de référence)
+- **L'Oracle** (qui comprend une page de cartes de référence)
 
 
-## Préparation de votre espace
+### Préparation de votre espace
 
 Une certaine préparation est nécessaire avant de pouvoir enseigner La Forêt Profonde à d'autres personnes.
 d'autres personnes. Commencez par débarrasser votre table ou votre espace de jeu de tout objet inutile.
@@ -51,64 +57,66 @@ crayons, les dés, les jetons de mépris, les cartes récapitulatives et les fic
 Sur une fiche, inscrivez les titres de deux colonnes - Adoptions et Tabous. Sur une
 Sur une deuxième fiche, écrivez le titre Noms.
 
-## Une année fugace
+### Une année fugace
 
 Une partie complète de La Forêt Profonde dure généralement de 3 à 4 heures, temps d'enseignement compris.
 le temps d'enseignement. Si vous préférez jouer une partie plus courte, vous pouvez le faire avec cet ajustement :
 avant de jouer, retirez 4 cartes de chacune des couleurs (qui représentent les saisons).
-Veillez à retirer la dame de carreau (été) et à garder le roi de pique (hiver).
-le roi de pique (hiver) dans les cartes avec lesquelles vous jouez.
+Veillez à retirer la dame de carreau (été) et à garder le roi de pique (hiver) des les cartes avec lesquelles vous jouez.
 
+<div class="pagebreak" />
 
-# Chapitre 2 : Enquête
+---
 
-```
-En tant qu'animateur, vous lirez le texte régulier de ce chapitre à voix haute au groupe, en suivant les instructions écrites dans le manuel.
-au groupe, en suivant les instructions écrites en italique.
-```
-## L'histoire d'ouverture
+## Chapitre Deux : Enquête
+
+*En tant qu'animateur, vous lirez le texte régulier de ce chapitre à voix haute au groupe, en suivant les instructions écrites dans le manuel.
+au groupe, en suivant les instructions écrites en italique.*
+
+---
+
+### L'histoire d'ouverture
 
 Lisez à haute voix.
 
-Pendant longtemps, notre maison monstrueuse a été occupée par des humains envahisseurs. Aujourd'hui,
-enfin, nous les avons chassés, et il nous reste ceci : une année de paix relative. Une
-année de calme, avec laquelle nous pourrons démanteler leurs colonies et reconquérir nos terres. Venez sur
-Hiver, une bande de héros va arriver et nous pourrions ne pas survivre à la rencontre. Ce
-c'est à ce moment que le jeu se terminera. Mais nous ne le savons pas encore. Ce que nous savons, c'est
-c'est que maintenant, en ce moment, nous, les monstres, avons l'opportunité de guérir et de
-et de découverte de soi dans notre forêt profonde, loin des yeux des humains.
+>Pendant longtemps, notre maison monstrueuse a été occupée par des humains envahisseurs. Aujourd'hui,
+>enfin, nous les avons chassés, et il nous reste ceci : une année de paix relative. Une
+>année de calme, avec laquelle nous pourrons démanteler leurs colonies et reconquérir nos terres. Venez sur
+>Hiver, une bande de héros va arriver et nous pourrions ne pas survivre à la rencontre. Ce
+>c'est à ce moment que le jeu se terminera. Mais nous ne le savons pas encore. Ce que nous savons, c'est
+>c'est que maintenant, en ce moment, nous, les monstres, avons l'opportunité de guérir et de
+>et de découverte de soi dans notre forêt profonde, loin des yeux des humains.
 
+### Explication des outils
 
-## Explication des outils
+Commençons par nous familiariser avec nos outils :
 
-Commençons par nous familiariser avec nos outils.
-
-Désignez la page blanche. C'est notre carte. Avant de jouer, nous allons établir une partie
+- *Montrez la page blanche.* C'est notre carte. Avant de jouer, nous allons établir une partie
 le paysage et les monstres qui y vivent. Au fur et à mesure que nous jouerons, nous mettrons la carte à jour
 pour refléter les nouvelles découvertes, les conflits et les opportunités. Certaines parties de la carte seront
 cartographie littérale et d'autres parties seront symboliques. Nous essaierons d'éviter d'écrire
-mots sur la carte, mais les symboles courants sont acceptés.
-
-Tout au long du jeu, nous serons tous chargés de dessiner sur cette carte. Il est possible de
+mots sur la carte, mais les symboles courants sont acceptés.Tout au long du jeu, nous serons tous chargés de dessiner sur cette carte. Il est possible de
 C'est normal de dessiner mal ou grossièrement, mais nous allons tous dessiner.
 
-Montrez les dés. Ce sont des dés de projet. Quand un monstre commence un projet, nous allons
+- *Montrez les dés.* Ce sont des dés de projet. Quand un monstre commence un projet, nous allons
 nous en placerons un sur la carte pour noter combien de semaines il faudra pour le terminer. Chaque semaine,
 ils diminuent d'une unité. Quand un dé atteint zéro, le projet est terminé.
 
-Montrez les jetons de mépris. Ce sont des jetons de mépris. Ils représentent toute
+- *Montrez les jetons de mépris.* Ce sont des jetons de mépris. Ils représentent toute
 les tensions et les frustrations qui pourraient survenir entre nos monstres.
 
-Montrez la carte de résumé. Il s'agit d'une carte récapitulative. Elle nous rappelle ce que nous devons faire
+- *Montrez la carte de résumé.* Il s'agit d'une carte récapitulative. Elle nous rappelle ce que nous devons faire
 chaque semaine de La Forêt Profonde, et dans quel ordre.
 
-## Explication du jeu de cartes
+### Explication du jeu de cartes
 
-# ♥ ♦ ♣ ♠
+Les saisons sont :
 
-```
-Printemps Eté Automne Hiver
-```
+- Printemps : Coeur **♥**
+- Eté : Carreau **♦**
+- Automne : Trèfle **♣**
+- Hiver : Pique **♠**
+
 Montrez les quatre couleurs à tour de rôle, et expliquez qu'elles correspondent aux quatre saisons.
 En prenant la pile de piques, montrez à tout le monde le roi de pique.
 
@@ -119,8 +127,7 @@ Mélangez les piques et placez-les face cachée sur la table. Mélangez les trè
 placez-les par-dessus. Répétez avec les carreaux, et enfin avec les cœurs. Pendant que vous mélangez
 chaque couleur, rappelez au groupe sa saison.
 
-
-## Qui sommes-nous ?
+### Qui sommes-nous ?
 
 Nous avons tous deux rôles à jouer dans ce jeu. Le premier est de parler au nom des membres
 de cette communauté, et de se soucier de leurs destins individuels et collectifs... Le
@@ -149,8 +156,7 @@ nous créons de la tension et donnons l'impression que les luttes de la communau
 vous vous battez avec dans la vie réelle (comme si un espace peut être vraiment sûr), introduisez des
 des situations qui la remettent en question.
 
-
-## Esquisser l'occupation
+### Esquisser l'occupation
 
 Avant de commencer le jeu, nous devons établir la nature de l'occupation et l'impact durable qu'elle a eu sur la société.
 l'impact persistant qu'elle a eu sur la région. Nous commençons par une brève discussion (qui prend
@@ -170,7 +176,7 @@ comprendre son impact.
 Un joueur doit présenter un point de repère, puis les autres joueurs doivent
 délimiter les frontières de l'occupation, avant de poursuivre.
 
-## Présentation des monstres
+### Présentation des monstres
 
 À ce stade, chacun d'entre nous doit présenter un monstre et nous parler brièvement de
 son nid ou sa demeure. Lorsque nous présentons notre monstre et sa demeure, nous devons ensuite
@@ -191,14 +197,14 @@ sont ajoutés, les joueurs les dessinent sur la carte. Notez les noms sur votre 
 
 Chacun doit présenter un monstre et l'ajouter à la carte avant de poursuivre.
 
-
-## Adoptions et tabous
+### Adoptions et tabous
 
 Ensuite, nous déclarons chacun un vestige important laissé par les humains,
 quelque chose que nous aurions pu adopter ou déclarer tabou
 après l'occupation.
 
 Voici quelques exemples :
+
 - aqueducs et canaux
 - un orbe sombre de vision lointaine
 - un mémorial humain
@@ -221,27 +227,32 @@ symboliques sont acceptés, mais les mots doivent être évités.
 Demandez à chacun de déclarer un vestige humain et décidez lequel a été adopté.
 Mettez la carte à jour avant de poursuivre.
 
+<div class="pagebreak" />
 
-# Chapitre 3 : Règles
+---
 
-```
-Faites circuler le livre autour de la table, en laissant chacun lire à tour de rôle ces sections à haute voix au groupe.
-sections à haute voix au groupe. Une fois que vous avez terminé ce chapitre, commencez à jouer.
-```
-## La semaine
+## Chapitre Trois : Règles
+
+*Faites circuler le livre autour de la table, en laissant chacun lire à tour de rôle ces sections à haute voix au groupe.
+sections à haute voix au groupe. Une fois que vous avez terminé ce chapitre, commencez à jouer.*
+
+---
+
+### La semaine
 
 L'unité de base du jeu dans La Forêt Profonde est la semaine. Chaque semaine est un tour pris par un joueur.
 par un joueur, et le jeu se déroule dans le sens des aiguilles d'une montre autour de la table. Les semaines devraient
 semaines devraient durer en moyenne 2 à 3 minutes.
 
 Au cours de chaque semaine, les choses suivantes se produisent :
+
 - Le joueur actif tire une carte, lit le texte correspondant à haute voix,
 et le résout. Ils suivent tous les textes en gras.
 - Les dés de projet sont réduits de 1, et tout projet terminé est mis à jour.
 - Le joueur actif choisit et effectue une action
 (Découvrir quelque chose de vieux, se mettre d'accord sur quelque chose, ou commencer un projet).
 
-## Dessin des cartes
+### Dessin des cartes
 
 Comme il y a 52 cartes, il y a 52 semaines. Nous n'aurons pas nécessairement l'occasion de les jouer toutes
 Nous n'aurons pas nécessairement l'occasion de jouer toutes les cartes - les héros peuvent arriver à tout moment pendant l'hiver pour interrompre la progression de notre communauté.
@@ -258,8 +269,7 @@ représentée sur la carte d'une manière ou d'une autre. Si c'est le cas, mette
 nouvelles informations. Par exemple, si la carte vous pose une question sur les habitudes alimentaires de la communauté, vous pourriez dessiner une carte de la région.
 communauté, vous pourriez finir par dessiner un terrain de chasse dans les bois voisins.
 
-
-## Travailler sur des projets
+### Travailler sur des projets
 
 À moins que votre carte ne vous indique spécifiquement le contraire (en gras), l'étape suivante consiste à
 de réduire de 1 chaque dé de projet sur la carte. Si un projet atteint 0, le dé est retiré et le projet est terminé.
@@ -279,8 +289,7 @@ un projet d'enquête se termine avec un espoir dissipé. Même dans ces cas, la
 Même dans ces cas, l'achèvement d'un projet doit toujours être ressenti comme un pas en avant, et non en arrière. Cela
 Cela ne signifie pas toujours que toute la communauté est satisfaite des résultats.
 
-
-## Découvrir quelque chose de vieux
+### Découvrir quelque chose de vieux
 
 Un des types d'action est Découvrir quelque chose de vieux. Révéler quelque chose
 d'avant ou de pendant l'occupation. Cela peut présenter un problème, offrir une
@@ -294,14 +303,14 @@ individuels sont introduits par cette action, nous leur donnerons des noms, et e
 noms sur notre fiche.
 
 Quelques exemples de situations :
+
 - Un charnier est découvert au nord de la communauté.
 - Une meute de bêtes-garous émerge des bois.
 - Des récits oubliés de la fin des temps commencent à circuler.
 - Un rite ancien est accompli pour la première fois depuis l'occupation.
 - Un symbole religieux archaïque apparaît dans le ciel.
 
-
-## Se mettre d'accord sur quelque chose
+### Se mettre d'accord sur quelque chose
 
 Un autre type d'action est Convenir de quelque chose. Commencez par une déclaration sur
 un problème ou une question dans la communauté. Dans le sens des aiguilles d'une montre, tous les autres participants peuvent alors
@@ -327,16 +336,16 @@ mais reste silencieuse."
 Il est important que nous restions concis. Si l'un de nous a l'impression d'avoir plus à dire sur un sujet.
 sujet, nous pouvons toujours nous mettre d'accord sur quelque chose à ce sujet plus tard.
 
+### Démarrer un projet
 
-## Démarrer un projet
-
-Le dernier type d'action est "Démarrer un projet". Vous choisissez une situation sur la carte,
+Le dernier type d'action est Démarrer un projet. Vous choisissez une situation sur la carte,
 et vous nous dites comment certains monstres peuvent y remédier. Peu importe que la communauté entière
 communauté soutient le projet ou non - le travail commence. Les projets peuvent se concentrer
 sur les efforts de décolonisation, la restauration d'anciennes coutumes ou d'édifices, ou de nouveaux
 nouveaux projets qui feront avancer la communauté.
 
 Quelques exemples de projets :
+
 - Les wurms de boue et les Rothwen commencent à démanteler les clôtures que les humains ont construites.
 - Nous enseignons la langue draken aux jeunes du village.
 - Sordide dirige plusieurs autres personnes pour restaurer les arches runiques.
@@ -351,7 +360,7 @@ n'oubliez pas que votre communauté doit renforcer lentement ses capacités.
 Placez un dé sur la carte à l'endroit où se déroule le projet, la face du dé correspondant au nombre de semaines nécessaires à sa réalisation.
 correspondant au nombre de semaines nécessaires à sa réalisation.
 
-## Mise à jour des vestiges
+### Mise à jour des vestiges
 
 Au début du jeu, nous aurons adopté un vestige et déclaré au moins autant de vestiges tabous.
 et déclaré au moins autant de restes tabous. Ces listes servent de guide pour interpréter le discours
@@ -360,8 +369,7 @@ mises à jour de ces listes pour refléter les changements de perspective, chaqu
 approprié de le faire. Peut-être que l'achèvement d'un projet provoque une Adoption ou
 déclenche un Tabou. Certaines cartes hebdomadaires modifieront également ces listes.
 
-
-## Équilibrer les actions
+### Équilibrer les actions
 
 Découvrir quelque chose d'ancien nous permet d'introduire des situations et des dilemmes dans le jeu,
 en découvrant l'époque avant et pendant l'occupation. Se mettre d'accord sur quelque chose
@@ -375,7 +383,7 @@ d'action. Nous ne devrions pas utiliser Uncover Something Old pour contourner no
 rencontrant commodément les fournitures qui nous manquaient. Nous ne devrions pas nous mettre d'accord sur
 quelque chose sur des situations que nous n'avons pas encore mentionnées ou présentées.
 
-## Le mépris
+### Le mépris
 
 Si jamais vous avez l'impression qu'un monstre particulier n'a pas été consulté ou honoré dans un
 processus de décision, vous pouvez prendre un morceau de Mépris et le placer au bord de la carte, près de la lagune.
@@ -399,7 +407,7 @@ qui permettrait de rétablir les relations et de restaurer la confiance, vous po
 pour montrer comment il a apaisé les tensions passées.
 
 
-## La mort
+### La mort
 
 Chaque mort a le potentiel de changer radicalement la communauté. Lorsqu'un
 Lorsqu'un monstre meurt, prenez un moment pour penser aux répercussions qui pourraient survenir.
@@ -411,7 +419,7 @@ peut également avoir un impact sur nos tabous et adoptions. Si un monstre super
 meurt, est-ce que quelque chose cesse d'être tabou ? Si un monstre savant meurt, savons-nous encore comment maintenir une adoption ?
 savons-nous encore comment maintenir une adoption ? Nous pouvons modifier ces listes si nécessaire.
 
-## Restriction
+### Restriction
 
 En jouant à La Forêt Profonde, nous devons nous abstenir de toute discussion libre
 sur ce qu'il faut faire ensuite. Il existe dans le jeu des mécanismes spécifiques pour discuter des
@@ -420,7 +428,7 @@ parlerons pas à tort et à travers ou tenterons de contourner ces mécanismes. 
 pour montrer combien il est difficile d'engager la conversation avec toute la communauté,
 et comment les tensions et les désaccords ont tendance à perdurer pendant des semaines, voire des mois.
 
-## Le rythme
+### Le rythme
 
 Au début du jeu, nous n'aurons qu'une esquisse du paysage et peu d'informations sur les monstres qui y vivent.
 peu d'informations sur les monstres qui vivent ici. De cet humble endroit, une
@@ -441,14 +449,18 @@ déjà soulevés, nous pouvons introduire de nouveaux dilemmes. Que se passe-t-i
 monstre détruit une ressource clé ? Que se passe-t-il lorsque quelqu'un est accusé de
 collaborer avec les humains ?
 
+<div class="pagebreak" />
 
-# Chapitre 4 : More
+---
 
-```
-En tant qu'animateur, familiarisez-vous avec ces sections. Pendant le jeu, vous pouvez y faire référence
-et lire des sections à chaque fois qu'elles vous semblent pertinentes ou importantes.
-```
-## Parsing
+## Chapitre Quatre : Finalement
+
+*En tant qu'animateur, familiarisez-vous avec ces sections. Pendant le jeu, vous pouvez y faire référence
+et lire des sections à chaque fois qu'elles vous semblent pertinentes ou importantes.*
+
+---
+
+### Relecture de règles
 
 Si vous avez l'impression que quelqu'un a mal interprété les règles, mettez-le en pause. Trouvez
 Trouvez la section pertinente du texte et lisez-la à haute voix. Dans la mesure du possible, attirez
@@ -456,7 +468,7 @@ l'attention sur le fonctionnement des règles, plutôt que sur la raison pour la
 qu'un joueur en particulier les a mal utilisées. Permettez aux joueurs d'être les arbitres ultimes de leurs propres
 contributions.
 
-## Immigration
+### Immigration
 
 Lorsque de nouveaux monstres arrivent dans la communauté, il est préférable qu'ils arrivent aussi
 sous forme d'individus solitaires ou de petites grappes. La Forêt Profonde prend un ton radicalement
@@ -465,7 +477,7 @@ huit ou neuf monstres au total. Assurez-vous que vos ajouts défient la
 communauté, mais ne la déséquilibrez pas au point qu'un groupe de monstres devienne le groupe dominant par son seul nombre.
 groupe dominant par leur seul nombre.
 
-## L'arrivée des héros
+### L'arrivée des héros
 
 Pendant le jeu, il est préférable de laisser les héros comme un mystère insaisissable - peut-être en faisant allusion à ce qu'ils pourraient être, mais jamais directement.
 ce qu'ils pourraient être, mais sans jamais répondre directement. Le jeu se termine brusquement lorsque
@@ -475,8 +487,9 @@ héros, de ce que leur arrivée a pu signifier pour la communauté ou de toute a
 autres situations auxquelles ils ont été confrontés tout au long de leur année. Une fois le jeu terminé, les
 limites imposées à la communication et à la discussion sont soudainement levées.
 
+<div class="pagebreak" />
 
-# Notes sur la conception
+## Notes sur la conception
 
 ```
 d'Avery Alder Mcdaldno.
@@ -517,7 +530,7 @@ communauté - rassembler les gens ou les fracturer, effacer la différence ou
 en nous forçant à les voir plus clairement.
 
 
-# Notes de conception
+## Notes de conception
 ```
 de Mark Diaz Truman.
 ```
@@ -552,7 +565,7 @@ J'espère que La Forêt Profonde est un miroir, un miroir qui reflète ce que vo
 les rôles que vous jouez traditionnellement et les conquêtes que vous tentez traditionnellement.
 
 
-# Due Credit
+## Due Credit
 
 ```
 Ce jeu est de Mark Diaz Truman et Avery Alder Mcdaldno.
@@ -568,7 +581,7 @@ Pour découvrir d'autres de ses œuvres, rendez-vous sur le site Morningstar Art
 ```
 Titres dans Leander, texte dans Minion Pro.
 ```
-## Remerciements spéciaux
+### Remerciements spéciaux
 
 Scott Foster, Philip Espi, Jeremy Zimmerman, James Stuart, Evan Silberman,
 Jeremy Tidwell, Joe Beason, Peter Woodworth, Aaron Friesen, Jesse Wolfe !,
@@ -582,9 +595,6 @@ Nathan Black, James Graham.
 Ce jeu a été rendu possible par un total de cent quatre-vingt-quatorze mécènes.
 Pour consulter la liste complète, rendez-vous sur **buriedwithoutceremony.com/little-games**.
 
-## Enterré sans
+### Burried without Ceremony
 
-## Ceremony
-
-
-
+[front_image]: .\\front.png#center "image de garde"

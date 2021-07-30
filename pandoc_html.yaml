@@ -4,7 +4,7 @@ to: html
 # writer: may be used instead of to:
 
 # leave blank for output to stdout:
-output-file: Foret_profonde_VF.html
+output-file: Foret_sombre_VF.html
 # leave blank for input from stdin, use [] for no input:
 input-files: 
   - regles_Fr.md

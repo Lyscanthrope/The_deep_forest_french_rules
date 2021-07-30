@@ -4,10 +4,10 @@
 <!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD012 -->
 <!-- markdownlint-disable MD001 -->
+<!-- markdownlint-disable MD033 -->
 ### A
 
-L'occupation vous a tous laissés changés à jamais. Convenez
-Quelque chose sur la façon dont les humains vous ont changé. <br> **ou...** <br> L'un de vous commence à manifester de nouvelles qualités monstrueuses.
+L'occupation vous a tous laissés changés à jamais. Convenez quelque chose sur la façon dont les humains vous ont changé. <br> **ou...** <br> L'un de vous commence à manifester de nouvelles qualités monstrueuses.
 Quelles sont-elles ?
 
 ### 2

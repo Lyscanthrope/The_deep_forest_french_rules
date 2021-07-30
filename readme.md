@@ -7,5 +7,5 @@ Process:
 - Hand correction of issues in files ..
 
 To recreate the pdf :
-- Use pandoc (with appropriate miktex ...)
+- Use pandoc (with wkhtmltopdf)
 

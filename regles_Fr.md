@@ -1,15 +1,11 @@
 # LA FORÊT PROFONDE
 
-![Front][front_image]
+![][front_image]
 
 >Un jeu de cartes de fantaisie post-coloniale.\
 >Une réimagination de L'année tranquille.\
 >Par Mark Diaz Truman et Avery Alder Mcdaldno\
 >Art par Jules Silver
-
-<div class="pagebreak"/>
-
----
 
 ## Chapitre Un : Rassemblement
 
@@ -63,10 +59,6 @@ Une partie complète de La Forêt Profonde dure généralement de 3 à 4 heures,
 le temps d'enseignement. Si vous préférez jouer une partie plus courte, vous pouvez le faire avec cet ajustement :
 avant de jouer, retirez 4 cartes de chacune des couleurs (qui représentent les saisons).
 Veillez à retirer la dame de carreau (été) et à garder le roi de pique (hiver) des les cartes avec lesquelles vous jouez.
-
-<div class="pagebreak" />
-
----
 
 ## Chapitre Deux : Enquête
 
@@ -226,10 +218,6 @@ symboliques sont acceptés, mais les mots doivent être évités.
 
 Demandez à chacun de déclarer un vestige humain et décidez lequel a été adopté.
 Mettez la carte à jour avant de poursuivre.
-
-<div class="pagebreak" />
-
----
 
 ## Chapitre Trois : Règles
 
@@ -449,10 +437,6 @@ déjà soulevés, nous pouvons introduire de nouveaux dilemmes. Que se passe-t-i
 monstre détruit une ressource clé ? Que se passe-t-il lorsque quelqu'un est accusé de
 collaborer avec les humains ?
 
-<div class="pagebreak" />
-
----
-
 ## Chapitre Quatre : Finalement
 
 *En tant qu'animateur, familiarisez-vous avec ces sections. Pendant le jeu, vous pouvez y faire référence
@@ -486,8 +470,6 @@ le jeu se termine immédiatement. Une fois le jeu terminé, il est bon de parler
 héros, de ce que leur arrivée a pu signifier pour la communauté ou de toute autre situation à laquelle ils ont été confrontés tout au long de leur année.
 autres situations auxquelles ils ont été confrontés tout au long de leur année. Une fois le jeu terminé, les
 limites imposées à la communication et à la discussion sont soudainement levées.
-
-<div class="pagebreak" />
 
 ## Notes sur la conception
 

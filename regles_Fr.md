@@ -1,18 +1,15 @@
+<!-- markdownlint-disable MD045 -->
 # LA FORÊT PROFONDE
 
 ![][front_image]
 
->Un jeu de cartes de fantaisie post-coloniale.\
->Une réimagination de L'année tranquille.\
->Par Mark Diaz Truman et Avery Alder Mcdaldno\
->Art par Jules Silver
+*Un jeu de cartes de fantaisie post-coloniale : Une réimagination de une année de répit.\
+Par Mark Diaz Truman et Avery Alder Mcdaldno et le design par Jules Silver*
 
 ## Chapitre Un : Rassemblement
 
 *En tant qu'animateur, lisez l'intégralité de ce livre et accomplissez les tâches décrites dans ce chapitre avant d'inviter les autres à se joindre à vous.
 dans ce chapitre avant d'inviter les autres à vous rejoindre à la table.*
-
----
 
 ### Qu'est-ce que c'est ?
 
@@ -37,7 +34,6 @@ Il nécessite en outre :
 - 20 jetons de mépris (éventuellement des pierres ou des perles de verre)
 - Un jeu de cartes à jouer ordinaire
 - **L'Oracle** (qui comprend une page de cartes de référence)
-
 
 ### Préparation de votre espace
 
@@ -64,8 +60,6 @@ Veillez à retirer la dame de carreau (été) et à garder le roi de pique (hive
 
 *En tant qu'animateur, vous lirez le texte régulier de ce chapitre à voix haute au groupe, en suivant les instructions écrites dans le manuel.
 au groupe, en suivant les instructions écrites en italique.*
-
----
 
 ### L'histoire d'ouverture
 
@@ -109,15 +103,15 @@ Les saisons sont :
 - Automne : Trèfle **♣**
 - Hiver : Pique **♠**
 
-Montrez les quatre couleurs à tour de rôle, et expliquez qu'elles correspondent aux quatre saisons.
-En prenant la pile de piques, montrez à tout le monde le roi de pique.
+*Montrez les quatre couleurs à tour de rôle, et expliquez qu'elles correspondent aux quatre saisons.
+En prenant la pile de piques, montrez à tout le monde le roi de pique.*
 
 Lorsque cette carte sera tirée, la partie sera terminée. Cela peut arriver à n'importe quel moment de
 l'hiver.
 
-Mélangez les piques et placez-les face cachée sur la table. Mélangez les trèfles et
+*Mélangez les piques et placez-les face cachée sur la table. Mélangez les trèfles et
 placez-les par-dessus. Répétez avec les carreaux, et enfin avec les cœurs. Pendant que vous mélangez
-chaque couleur, rappelez au groupe sa saison.
+chaque couleur, rappelez au groupe sa saison.*
 
 ### Qui sommes-nous ?
 
@@ -165,8 +159,7 @@ des champs clôturés, ou une large forme trapézoïdale pour représenter un vi
 ne sont pas un inventaire exhaustif de l'occupation, mais plutôt un point de départ pour comprendre son impact.
 comprendre son impact.
 
-Un joueur doit présenter un point de repère, puis les autres joueurs doivent
-délimiter les frontières de l'occupation, avant de poursuivre.
+*Un joueur doit présenter un point de repère, puis les autres joueurs doivent délimiter les frontières de l'occupation, avant de poursuivre.*
 
 ### Présentation des monstres
 
@@ -187,7 +180,7 @@ boule de lumière rayonnante a élu domicile à l'étage inférieur de la tour. 
 communique avec des sentiments, mais les autres monstres l'appellent Sol." Au fur et à mesure que les détails sont
 sont ajoutés, les joueurs les dessinent sur la carte. Notez les noms sur votre fiche.
 
-Chacun doit présenter un monstre et l'ajouter à la carte avant de poursuivre.
+*Chacun doit présenter un monstre et l'ajouter à la carte avant de poursuivre.*
 
 ### Adoptions et tabous
 
@@ -216,15 +209,13 @@ qui les ont nommés dessinent quelque chose sur la carte pour représenter la pe
 la peur et la méfiance de la communauté envers ces ressources. Rappelez-vous que les symboles et les représentations
 symboliques sont acceptés, mais les mots doivent être évités.
 
-Demandez à chacun de déclarer un vestige humain et décidez lequel a été adopté.
-Mettez la carte à jour avant de poursuivre.
+*Demandez à chacun de déclarer un vestige humain et décidez lequel a été adopté.
+Mettez la carte à jour avant de poursuivre.*
 
 ## Chapitre Trois : Règles
 
 *Faites circuler le livre autour de la table, en laissant chacun lire à tour de rôle ces sections à haute voix au groupe.
 sections à haute voix au groupe. Une fois que vous avez terminé ce chapitre, commencez à jouer.*
-
----
 
 ### La semaine
 
@@ -394,7 +385,6 @@ Si quelqu'un d'autre fait quelque chose qui, selon vous, serait très apprécié
 qui permettrait de rétablir les relations et de restaurer la confiance, vous pouvez retirer un jeton de Mépris
 pour montrer comment il a apaisé les tensions passées.
 
-
 ### La mort
 
 Chaque mort a le potentiel de changer radicalement la communauté. Lorsqu'un
@@ -416,7 +406,7 @@ parlerons pas à tort et à travers ou tenterons de contourner ces mécanismes. 
 pour montrer combien il est difficile d'engager la conversation avec toute la communauté,
 et comment les tensions et les désaccords ont tendance à perdurer pendant des semaines, voire des mois.
 
-### Le rythme
+### Rythme
 
 Au début du jeu, nous n'aurons qu'une esquisse du paysage et peu d'informations sur les monstres qui y vivent.
 peu d'informations sur les monstres qui vivent ici. De cet humble endroit, une
@@ -441,8 +431,6 @@ collaborer avec les humains ?
 
 *En tant qu'animateur, familiarisez-vous avec ces sections. Pendant le jeu, vous pouvez y faire référence
 et lire des sections à chaque fois qu'elles vous semblent pertinentes ou importantes.*
-
----
 
 ### Relecture de règles
 
@@ -473,9 +461,10 @@ limites imposées à la communication et à la discussion sont soudainement lev�
 
 ## Notes sur la conception
 
-```
 d'Avery Alder Mcdaldno.
-```
+
+---
+
 J'ai grandi en ignorant tout de mon environnement, et surtout des histoires
 et les oppressions qui y résidaient. Je n'ai pas vraiment compris, en grandissant,
 que j'occupais l'espace Kootenay/Ktunaxa et Sinixt. J'ai déménagé à Vancouver
@@ -493,30 +482,29 @@ nous connaître.
 Elena Rose a écrit un article intitulé **sur la cartographie et la dissection** , qui traite à la fois du
 le colonialisme et l'homosexualité, et les mots qui en sont tirés me viennent à l'esprit.
 
-```
-"Vous entendez, de l'autre côté de l'eau, ces mots : Here Be Monsters. Vous les entendez
-l'encrer sur vous, s'éloigner de vos frontières ou se diriger tout droit
-vers des terres sauvages pour les apprivoiser et en tirer profit. Vous savez que vos entrailles ne sont pas
-navigables. Vous savez que peu importe comment vous dites, regardez, je peux vous dire où
-vous êtes, vous êtes juste ici, tout ce que vous entendrez en retour est un nouveau nom qui vous sera donné,
-le Pays Non Découvert.
-```
-```
-Agitez vos bras et criez, si vous voulez. Je le fais aussi. Vous entendrez toujours la
-question : Qu'est-ce que tu es ?
-Je ne suis pas un quoi.
-Oui, mais qu'est-ce que tu es ?"
-```
+>"Vous entendez, de l'autre côté de l'eau, ces mots : Here Be Monsters. Vous les entendez
+>l'encrer sur vous, s'éloigner de vos frontières ou se diriger tout droit
+>vers des terres sauvages pour les apprivoiser et en tirer profit. Vous savez que vos entrailles ne sont pas
+>navigables. Vous savez que peu importe comment vous dites, regardez, je peux vous dire où
+>vous êtes, vous êtes juste ici, tout ce que vous entendrez en retour est un nouveau nom qui vous sera donné,
+>le Pays Non-Découvert.
+>
+>Agitez vos bras et criez, si vous voulez. Je le fais aussi. Vous entendrez toujours la
+>question : Qu'est-ce que tu es ?
+>Je ne suis pas un quoi.
+>Oui, mais qu'est-ce que tu es ?"
+
 Je voulais écrire un jeu sur les façons dont la récupération collective peut façonner une
 communauté - rassembler les gens ou les fracturer, effacer la différence ou
 en nous forçant à les voir plus clairement.
 
-
 ## Notes de conception
-```
+
 de Mark Diaz Truman.
-```
-Je n'ai pas vraiment pensé à être un concepteur de jeux mexicain-américain jusqu'à ce que
+
+---
+
+Je n'ai pas vraiment pensé à être un concepteur de jeux jusqu'à ce que
 que j'avais déjà écrit deux jeux. Il ne m'est jamais venu à l'esprit que je pourrais
 avoir quelque chose à dire sur ma propre expérience d'enfant hispanique qui a grandi
 au Nouveau-Mexique, l'État célèbre pour la révolte des Pueblos. Mes jeux étaient juste comme
@@ -525,44 +513,38 @@ les jeux de tout le monde.
 Pendant la conception de The Deep Forest, Avery m'a fait découvrir une citation de Junot Diaz
 qui était particulièrement appropriée -
 
-```
-"Vous savez, les vampires n'ont pas de reflets dans un miroir ? [...] Et ce que j'ai
-toujours pensé n'est pas que les monstres n'ont pas de reflets dans un miroir. C'est
-que si vous voulez faire d'un être humain un monstre, refusez-lui, au niveau
-niveau culturel, tout reflet d'eux-mêmes. Et en grandissant, je me sentais comme un
-monstre d'une certaine manière. Je ne me voyais pas du tout reflété."
-```
+>"Vous savez, les vampires n'ont pas de reflets dans un miroir ? [...] Et ce que j'ai
+>toujours pensé ce n'est pas que les monstres n'ont pas de reflets dans un miroir. C'est
+>que si vous voulez faire d'un être humain un monstre, refusez-lui, au niveau
+>niveau culturel, tout reflet d'eux-mêmes. Et en grandissant, je me sentais comme un
+>monstre d'une certaine manière. Je ne me voyais pas du tout reflété."
+
 C'est étrange, je pense, ce que le manque de miroirs fait à une personne. Vous savez que vous
 que vous avez une histoire, mais comme vous ne pouvez pas la voir en dehors de vous, peut-être que vous êtes juste fou ?
-Peut-être que tu devrais continuer le processus d'estampillage de tout ce qui reste d'Autre
-en vous avant que tout le monde ne réalise que vous êtes quelque chose de différent.
+Peut-être que tu devrais effacer tout ce qui est Autre
+en toi avant que tout le monde ne réalise que tu es devenu quelqu'un d'autre.
 
 Je voulais concevoir un jeu qui montre que la décolonisation est un processus de guérison,
 une lente croissance d'un état d'esprit à un autre. Ce n'est pas ce qui était avant, en grande partie
-parce que ce qui était avant a été détruit, mais il détient le potentiel pour une guérison.
+parce que ce qui était avant a été détruit, mais cel détient un potentiel pour une guérison.
 Pourtant, comme beaucoup de tentatives de décolonisation, nous savons qu'elle sera interrompue bien avant
 qu'elle ne puisse vraiment se terminer.
 
-J'espère que La Forêt Profonde est un miroir, un miroir qui reflète ce que vous y apportez.
-les rôles que vous jouez traditionnellement et les conquêtes que vous tentez traditionnellement.
+J'espère que La Forêt Profonde est un miroir, un miroir qui reflète ce que vous y apportez,
+les rôles que vous jouez habituellement et les conquêtes que vous tentez habituellement.
 
+## Remerciement
 
-## Due Credit
-
-```
 Ce jeu est de Mark Diaz Truman et Avery Alder Mcdaldno.
 Vous pouvez voir d'autres travaux de Mark sur Magpie Games.
-```
-```
+
 Il est dédié à Jeremy Zimmerman, un supporter Patreon.
-```
-```
+
 La couverture est l'œuvre de Jules Silver, un artiste micmac et cri de Regina.
 Pour découvrir d'autres de ses œuvres, rendez-vous sur le site Morningstar Artistic Creations.
-```
-```
-Titres dans Leander, texte dans Minion Pro.
-```
+
+Les titres sont en Leander et le texte en Minion Pro.
+
 ### Remerciements spéciaux
 
 Scott Foster, Philip Espi, Jeremy Zimmerman, James Stuart, Evan Silberman,

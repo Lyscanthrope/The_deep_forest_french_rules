@@ -7,5 +7,4 @@ Process:
 - Hand correction of issues in files ..
 
 To recreate the pdf :
-- Use pandoc (with wkhtmltopdf)
-
+- Use pandoc (with wkhtmltopdf) with pandoc -d pandoc_pdf.yaml

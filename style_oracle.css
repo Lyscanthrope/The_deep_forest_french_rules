@@ -10,27 +10,28 @@ html {
     font-weight: 300;
     margin: 0 auto;
     max-width: 48rem;
-    line-height: 1.45;
+    line-height: 1.2;
     padding: .25rem;
     /*background-color: white;*/
     background: #fff;
-    font-size: 16pt;
+    font-size: 12pt;
     font-family: 'Minion Pro';
     text-align: justify;  
     text-justify: auto;
 
   }
   
-    h1,h2,h3,h4 {font-family: 'Leander';page-break-inside:avoid;}
+    h1,h2,h3,h4 {font-family: 'Leander';page-break-inside:avoid;     padding: 0;
+      margin: 0;}
     h1, h2 {text-align: center;}
     h1 { font-size : 3.5em; }
-    h2 { font-size : 3em; page-break-before: always}
+    h2 { font-size : 3.5em; page-break-before: always}
     h3 { font-size : 2em; }
     h3:before
     {
       content:'';
       display:block;
-      border:2px solid black;
+      border:1px solid black;
   }
 
   hr {
@@ -42,22 +43,13 @@ html {
     display: block;
     margin: auto;
 }
+ 
 
-  blockquote {
-    border-left: 8px solid #a5373754;
-    max-width: 40rem;
-    margin-left: 2rem;
-    /*padding: 1rem;*/
+p {
+    page-break-inside:avoid;
+    margin-top : -2em;
+    margin-left: 3em
   }
-  
-  body .tablelines table, 
-  body .tablelines td, 
-  body .tablelines th {
-    font-size: 25;
-  }
-/*   p {
-    page-break-inside:avoid
-  }
- */
+
  /* .pagebreak { page-break-after: always; }*/
   .pagebreak {height:0;page-break-after: always !important; margin:0; border-top:none;}

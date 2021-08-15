@@ -14,10 +14,9 @@ Back of cards:
 
 - titles #303e41 titles
 - for seasons https://www.schemecolor.com/power-pastels.php
-    
-    - summer : #eecab6 desert sand
-    - Autumn : #cc859a
-    - winter : #9eaeb2
-    - spring : #b1c294
+- summer : #eecab6 desert sand
+- Autumn : #cc859a
+- winter : #9eaeb2
+- spring : #b1c294
 
 Use of *_..._* instead of **...** pour pouvoir convertir les cartes avec nandeck

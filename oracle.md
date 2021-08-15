@@ -19,7 +19,7 @@ Quelqu'un découvre un trésor d'objets rituels cachés des humains Quels sont c
 
 ### 4
 
-Un outil puissant des humains est trouvé près du village. Comment le détruire ? Combien cela vous coûte-t-il ? <br> **_ou..._** <br> Un puissant outil des humains est trouvé près de la colonie. Comment est-il exploité ? Quels plaisirs offre-t-il ?
+Un outil puissant des humains est trouvé près du village. Comment le détruire ? Quel en est le prix à payer ? <br> **_ou..._** <br> Un puissant outil des humains est trouvé près de la colonie. Comment est-il exploité ? Quels plaisirs offre-t-il ?
 
 ### 5
 
@@ -55,13 +55,13 @@ Certains des monstres ici ont parcouru une grande distance pour rejoindre la com
 
 ### K
 
-Un rituel des occupants humains a été adopté par certains des monstres ici. Qu'est-ce que c'est ? **_Mettez-vous d'accord sur quelque chose qui explique_** pourquoi ce rituel est vital à conserver et à préserver comme le vôtre. **_Ajoutez le rituel à vos Adoptions._**
+Un rituel des occupants humains a été adopté par certains des monstres. Qu'est-ce que c'est ? **_Mettez-vous d'accord sur quelque chose qui explique_** pourquoi ce rituel est vital à conserver et à préserver comme le vôtre. **_Ajoutez le rituel à vos Adoptions._**
 
 ## ♦ Ete
 
 ### A
 
-Un des plus petits monstres commence à construire quelque chose qui "ramènera les humains". Qu'est-ce que c'est ? Comment la communauté la communauté réagit-elle ? <br> **_ou..._** <br> L'un des plus gros monstres commence à consommer les plus petits. monstres. Pourquoi ? Comment la communauté réagit-elle ?
+Un des plus petits monstres commence à construire quelque chose qui "ramènera les humains". Qu'est-ce que c'est ? Comment la communauté la communauté réagit-elle ? <br> **_ou..._** <br> L'un des plus gros monstres commence à consommer les plus petits. Pourquoi ? Comment la communauté réagit-elle ?
 
 ### 2
 
@@ -69,11 +69,11 @@ Une vague de paranoïa déferle sur la communauté. **_Mettez-vous d'accord sur 
 
 ### 3
 
-Quelqu'un commence à répondre à un besoin urgent, quel qu'en soit le coût. coût. **_Commencer un projet_** qui va aliéner certains monstres dans la communauté. <br> **_ou..._** <br> Quelqu'un demande qu'une constitution soit écrite. Quelles règles proposent-ils qui mettent en colère la communauté ?
+Quelqu'un commence à ressentir un besoin urgent, quel qu'en soit le coût. **_Commencer un projet_** qui va aliéner certains monstres dans la communauté. <br> **_ou..._** <br> Quelqu'un demande qu'une constitution soit écrite. Quelles règles proposent-ils qui mettent en colère la communauté ?
 
 ### 4
 
-Un jeune monstre s'en prend à la communauté. Qui est-ce ? Qui la communauté blâme-t-elle pour sa colère ? <br> **_ou..._** <br> Un monstre qui vivait avant l'occupation prétend que la nouvelle communauté est immorale. **_Commencez un projet_** qui reflète leur appel fondamentaliste.
+Un jeune monstre s'en prend à la communauté. Qui est-ce ? Qui la communauté blâme-t-elle pour sa colère ? <br> **_ou..._** <br> Un monstre qui vivait avant l'occupation prétend que la nouvelle communauté est immorale. **_Commencez un projet_** qui reflète son appel fondamentaliste.
 
 ### 5
 
@@ -86,7 +86,7 @@ Les tentatives pour terminer un projet se terminent par des querelles et de la c
 ### 7
 
 
-Un monstre parle de ses griefs d'avant l'occupation. occupation. **_Convenez de quelque chose_** à propos des vieux conflits de cette communauté. <br> **_ou..._** <br> Un des monstres en menace ou en alarme un autre. Qu'est-ce qui les a provoqués, dans le sens le plus immédiat ?
+Un monstre parle de ses griefs d'avant l'occupation. **_Convenez de quelque chose_** à propos des vieux conflits de cette communauté. <br> **_ou..._** <br> Un des monstres menace ou met en garde un autre. Qu'est-ce qui les a provoqués, au sens litteral ?
 
 ### 8
 
@@ -94,7 +94,7 @@ Dans un moment de besoin, un monstre charismatique révèle des ressources préc
 
 ### 9
 
-En faisant confiance à la technologie humaine, quelqu'un se fait blesser ou embarrasser. Comment ? **_Supprimez une adoption._** <br> **_ou..._** <br> Un ancien réprimande certains des autres monstres à propos d'un comportement inconvenant. Que dit l'ancien ? **_Ajoutez un nouveau tabou._**
+En faisant confiance à la technologie humaine, quelqu'un se fait blesser ou humilié. Comment ? **_Supprimez une adoption._** <br> **_ou..._** <br> Un ancien réprimande certains des autres monstres à propos d'un comportement inconvenant. Que dit l'ancien ? **_Ajoutez un nouveau tabou._**
 
 ### 10
 
@@ -124,7 +124,7 @@ Quelqu'un jure de réclamer ce que les humains ont pris. Qui sont-ils ? **_Lance
 
 ### 3
 
-Un humain tente de rejoindre la communauté en tant que monstre. **_Mettez-vous d'accord_** sur quelque chose concernant la réaction de la communauté. <br> **_ou..._** <br> Plusieurs petits monstres reviennent de la chasse avec des rapports d'humains à proximité. **_Ajoutez un tabou_** associé à leur découverte.
+Un humain tente de rejoindre la communauté en tant que monstre. **_Mettez-vous d'accord_** sur quelque chose concernant la réaction de la communauté. <br> **_ou..._** <br> Plusieurs petits monstres reviennent de la chasse et informent d'humains à proximité. **_Ajoutez un tabou_** associé à leur découverte.
 
 ### 4
 
@@ -140,11 +140,11 @@ Le plus fort d'entre vous meurt. Quelle est la cause de sa mort ? <br> **_ou..._
 
 ### 7
 
-Les humains arrivent et détruisent quelque chose qui a été Adopté après l'occupation. Qu'est-ce que c'est ? La communauté se venge-t-elle ? <br> **_ou..._** <br> Les modèles météorologiques alarmants détruisent quelque chose qui a été adopté après l'occupation. Qu'est-ce que c'est ? Comment la la communauté interprète-t-elle cette perte ?
+Les humains arrivent et détruisent quelque chose qui a été adopté après l'occupation. Qu'est-ce que c'est ? La communauté se venge-t-elle ? <br> **_ou..._** <br> Les modèles météorologiques alarmants détruisent quelque chose qui a été adopté après l'occupation. Qu'est-ce que c'est ? Comment la la communauté interprète-t-elle cette perte ?
 
 ### 8
 
-Un nouvel ensemble de coutumes émerge au sein de la communauté, et suscite la controverse. Qui pratique ces coutumes ? Comment les traite-t-on ? <br> **_ou..._** <br> Un monstre célibataire arrive, cherchant à s'accoupler. Comment ce désir est-il exprimé, par le plumage ou la manière ? Quel monstre monstre ici présent ?
+Un nouvel ensemble de coutumes émerge au sein de la communauté, et suscite la controverse. Qui pratique ces coutumes ? Comment les traite-t-on ? <br> **_ou..._** <br> Un monstre célibataire arrive, cherchant à s'accoupler. Comment ce désir est-il exprimé, par le plumage ou la manière ? Quel monstre aiment-ils ici ?
 
 ### 9
 
@@ -166,11 +166,11 @@ Un leader de la communauté s'en va après avoir arbitré une dispute particuli�
 
 ### Q
 
-Un groupe d'humains arrive, blessés et effrayés. Ils cherchent un abri et un sentiment d'appartenance. Comment sont-ils accueillis ? <br> **_ou..._** <br> Un humain seul arrive, cherchant à récupérer quelque chose de perdu pendant l'occupation. Comment sont-ils accueillis ?
+Un groupe d'humains arrive, blessés et effrayés. Ils cherchent un abri et pouvoir rester. Comment sont-ils accueillis ? <br> **_ou..._** <br> Un humain seul arrive, cherchant à récupérer quelque chose de perdu pendant l'occupation. Comment sont-ils accueillis ?
 
 ### K
 
-Une vieille chose découverte sur la carte commence à attirer des étrangers monstrueux en pèlerinage. **_Mettez-vous d'accord_** sur quelque chose concernant les problèmes que ces pèlerins causent.
+Une chose ancienne découverte sur la carte commence à attirer des étrangers monstrueux en pèlerinage. **_Mettez-vous d'accord_** sur quelque chose concernant les problèmes que ces pèlerins causent.
 
 ## ♠ Hiver
 
@@ -196,7 +196,7 @@ L'un d'entre vous commence à manifester de nouvelles qualités humaines. Quelle
 
 ### 6
 
-Comment est l'hiver dans cette région ? Quelle est la réaction la plus réaction la plus courante à ce temps ? <br> **_ou..._** <br> Un des monstres entre en hibernation ou métamorphose. Comment la communauté doit-elle s'organiser pour pour pallier à leur absence ?
+Comment est l'hiver dans cette région ? Quelle est la réaction la plus réaction la plus courante à ce temps ? <br> **_ou..._** <br> Un des monstres entre en hibernation ou métamorphose. Comment la communauté doit-elle s'organiser pour pour pallier à son absence ?
 
 ### 7
 

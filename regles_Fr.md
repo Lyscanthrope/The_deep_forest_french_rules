@@ -152,12 +152,11 @@ et des baraquements militaires" et que tout le monde acquiesce.
 
 Une fois que la nature générale de l'occupation a été décidée, nous choisissons un joueur pour dessiner un point de repère notable que les humains ont construit pendant l'occupation.
 joueur pour dessiner un point de repère notable que les humains ont laissé derrière eux. Cela peut être
-un phare, une statue géante ou une église en pisé. Il est préférable de garder ce dessin
+un phare, une statue géante ou une église en brique. Il est préférable de garder ce dessin
 petit et simple. Ensuite, les autres joueurs délimitent les frontières de l'occupation.
 occupation. Il peut s'agir de plusieurs rectangles pour représenter des champs clôturés, ou d'une large forme trapézoïdale pour représenter un terrain.
 des champs clôturés, ou une large forme trapézoïdale pour représenter un village humain. Ces frontières
 ne sont pas un inventaire exhaustif de l'occupation, mais plutôt un point de départ pour comprendre son impact.
-comprendre son impact.
 
 *Un joueur doit présenter un point de repère, puis les autres joueurs doivent délimiter les frontières de l'occupation, avant de poursuivre.*
 
@@ -458,6 +457,51 @@ le jeu se termine immédiatement. Une fois le jeu terminé, il est bon de parler
 héros, de ce que leur arrivée a pu signifier pour la communauté ou de toute autre situation à laquelle ils ont été confrontés tout au long de leur année.
 autres situations auxquelles ils ont été confrontés tout au long de leur année. Une fois le jeu terminé, les
 limites imposées à la communication et à la discussion sont soudainement levées.
+
+## Aide de jeu : <br> Avant de jouer
+
+### Preparer le jeu de cartes
+
+- Séparer et mélanger chaque saison.
+- Placer les saisons l'un au dessus de l'autre - dans l'ordre
+
+### Esquisser l'occupation
+
+- Determiner la nature de l'occupation
+- Un joueur doit présenter un point de repère
+- Les autres joueurs doivent délimiter les frontières de l'occupation
+
+### Présentation des monstres
+
+- Chacun doit présenter un monstre et l'ajouter à la carte avant de poursuivre.
+
+### Adoptions et Tabou
+
+- Chaque joueur cite un vestige humain et décidez ensemble lequel a été adopté.
+- Mettez la carte à jour avant de poursuivre.
+
+## Aide de jeu :<br> En jeu
+
+### Chaque semaine
+
+- Le joueur actif tire une carte, lit le texte correspondant à haute voix,
+et le résout. Ils suivent tous les textes en gras.
+- Les dés de projet sont réduits de 1, et tout projet terminé est mis à jour.
+- Le joueur actif choisit et effectue une action
+
+### Actions
+
+- Découvrir quelque chose de vieux : *Révéler quelque chose
+d'avant ou de pendant l'occupation. Cela peut présenter un problème, offrir une
+une opportunité, ou un peu des deux. Dessinez-le sur la carte.*
+- Se mettre d'accord sur quelque chose : *Commencez par une déclaration sur
+un problème ou une question dans la communauté. Dans le sens des aiguilles d'une montre, tous les autres participants peuvent alors
+dans le sens des aiguilles d'une montre, tout le monde peut intervenir une fois, en exprimant son accord avec votre déclaration ou en décrivant à quoi ressemble son silence.*
+- Commencer un projet : *Vous choisissez une situation sur la carte,
+et vous nous dites comment certains monstres peuvent y remédier. Peu importe que la communauté entière
+communauté soutient le projet ou non - le travail commence.*
+
+
 
 ## Notes sur la conception
 

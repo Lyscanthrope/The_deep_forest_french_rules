@@ -7,7 +7,7 @@
 <!-- markdownlint-disable MD033 -->
 ### A
 
-L'occupation vous a tous laissés changés à jamais. Convenez de quelque chose sur la façon dont les humains vous ont changé. <br> ***_ou..._*** <br> L'un de vous commence à manifester de nouvelles qualités monstrueuses. Quelles sont-elles ?
+L'occupation vous a tous laissés changés à jamais. Convenez de quelque chose sur la façon dont les humains vous ont changé. <br> **_ou..._** <br> L'un de vous commence à manifester de nouvelles qualités monstrueuses. Quelles sont-elles ?
 
 ### 2
 
@@ -148,13 +148,7 @@ Un nouvel ensemble de coutumes émerge au sein de la communauté, et suscite la 
 
 ### 9
 
-Un groupe de petits monstres a été découvert près de la communauté.
-communauté, toujours là mais ignorés.
-**_Mettez-vous d'accord_** sur quelque chose à leur sujet.
-<br> **_ou..._** <br>
-Quelqu'un creuse, et découvre un squelette très particulier.
-Quelle sorte de créature cela pouvait-il être ? Est-ce qu'il y en a
-d'autres comme elle ?
+Un groupe de petits monstres a été découvert près de la communauté, toujours là mais ignorés.**_Mettez-vous d'accord_** sur quelque chose à leur sujet. <br> **_ou..._** <br> Quelqu'un  reuse, et découvre un squelette très particulier. Quelle sorte de créature cela pouvait-il être ? Est-ce qu'il y en a d'autres comme elle ?
 
 ### 10
 
@@ -212,7 +206,7 @@ Une maladie se propage dans la communauté. *Choisissez-en une* :<br> ♠ Vous p
 
 ### 10
 
-Un monstre disparaît dans les éléments de l'hiver. La communauté organise des recherches constantes et finalement le monstre est retrouvé. *Choisissez-en un* :<br> ♠ Tout ce que l'on trouve est un corps, clairement assassiné par des armes humaines. <br> ♠ Le monstre est retrouvé indemne, manifestement sauvé par la bonté humaine.
+Un monstre disparaît en plein hiver. La communauté organise des recherches constantes et finalement le monstre est retrouvé. *Choisissez-en un* :<br> ♠ Tout ce que l'on trouve est un corps, clairement assassiné par des armes humaines. <br> ♠ Le monstre est retrouvé indemne, manifestement sauvé par la bonté humaine.
 
 ### J
 

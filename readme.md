@@ -17,6 +17,8 @@ If you want to translate in another language, anyone can :
 - Translate oracle_Fr.md 
 - Rebuild the pdf using pandoc (with wkhtmltopdf installed) by executing convert_doc_to_pdf.bat
 
+And of course, check with Avery Alder for the permission of releasing.
+
 ## How I made :
 
 - PDF to markdown : [ici](https://pdf2md.morethan.io/)
